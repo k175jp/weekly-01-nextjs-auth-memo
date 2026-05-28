@@ -1,31 +1,4 @@
 # weekly-01-nextjs-auth-memo
-simple authentication-based memo application build with Next.js
-
-## Features
-- User authentication
-- Protected routes
-- Create / Read / Delete notes
-
-## Tech Stack
-- Next.js
-- React
-- TypeScript
-- Tailwind CSS
-
-## Get Started
-```bash
-npm install
-npm run dev
-```
-
-Open:
-
-http://loclahost:3000
-
-## Note
-This project was creawted as part of my weekly development series.
-
-# weekly-01-nextjs-auth-memo
 
 Simple authentication-based memo application built with Next.js.
 
