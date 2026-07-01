@@ -25,19 +25,13 @@ This project was created as part of my weekly development series.
 npm install
 npm run dev
 ```
-
-Open:
-
-http://localhost:3000
+Open http://localhost:3000
 
 ### Run with Docker
 ```bash
 docker compose up
 ```
-
-Open:
-
-http://localhost:3000
+Open http://localhost:3000
 
 ## Purpose
 The goal of this project was to practice:
@@ -49,7 +43,4 @@ The goal of this project was to practice:
  - Docker-based development environment
 
 ## Notes
-
 This is a small experimental project focused on learning and implementation rather than production readiness.
-
-The project intentionally avoids using a database in order to prioritize rapid development and weekly consistency.
